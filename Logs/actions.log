@@ -1,0 +1,9 @@
+copy 	 ; 	 /home/eddy/Desktop/source/App/folder3f.txt 	 ; 	 /home/eddy/Desktop/destination/Ubuntu/App/folder3f.txt
+copy 	 ; 	 /home/eddy/Desktop/source/App/folder3g.txt 	 ; 	 /home/eddy/Desktop/destination/Ubuntu/App/folder3g.txt
+copy 	 ; 	 /home/eddy/Desktop/source/App/folder3h.txt 	 ; 	 /home/eddy/Desktop/destination/Ubuntu/App/folder3h.txt
+copy 	 ; 	 /home/eddy/Desktop/source/App/folder3g.txt~ 	 ; 	 /home/eddy/Desktop/destination/Ubuntu/App/folder3g.txt~
+copy 	 ; 	 /home/eddy/Desktop/source/App/a.txt 	 ; 	 /home/eddy/Desktop/destination/Ubuntu/App/a.txt
+copy 	 ; 	 /home/eddy/Desktop/source/App/y.sh 	 ; 	 /home/eddy/Desktop/destination/Ubuntu/App/y.sh
+copy 	 ; 	 /home/eddy/Desktop/source/App/c.txt 	 ; 	 /home/eddy/Desktop/destination/Ubuntu/App/c.txt
+copy 	 ; 	 /home/eddy/Desktop/source/App/t.deb 	 ; 	 /home/eddy/Desktop/destination/Ubuntu/App/t.deb
+copy 	 ; 	 /home/eddy/Desktop/source/App/folderd.txt 	 ; 	 /home/eddy/Desktop/destination/Ubuntu/App/folderd.txt
