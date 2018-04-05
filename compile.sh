@@ -1,4 +1,4 @@
 #! /bin/bash
 clear
-rm *.pyc
+find . -type f -name '*.pyc' -delete
 python backup.py 

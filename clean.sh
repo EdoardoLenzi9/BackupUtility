@@ -1,3 +1,2 @@
 #! /bin/bash
-
-rm -rf *.pyc
+find . -type f -name '*.pyc' -delete
